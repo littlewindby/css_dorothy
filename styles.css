@@ -1,0 +1,22 @@
+body, h1, p {
+    margin: auto;
+    padding: auto;
+}
+
+.container {
+    width: 500px;
+    height: 500px;
+    background-color: olivegreen;
+    position: relative;
+}
+
+.box {
+    width: 100px;
+    height: 100px;
+    background-color: khaki;
+    position: absolute;
+    top: 20px;
+    right: 30px;
+    bottom: 75px;
+    left: 40px;
+}
